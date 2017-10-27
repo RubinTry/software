@@ -1,1 +1,1 @@
-# [°²×¿°æ](http://www.xcbaoyin.com/?p=help&t=show&id=76)
+# [å®‰å“ç‰ˆ](http://www.xcbaoyin.com/?p=help&t=show&id=76)
