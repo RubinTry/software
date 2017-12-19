@@ -1,0 +1,16 @@
+原型的分类：
+
+1.低保真原型（一般指手绘草图）
+
+2.中保真原型：使用相关软件去绘制（比如axure、PS），未上色
+
+3.高保真原型：接近线上的较为真实的效果，包含了效果图和原型交互
+
+
+
+软件安装：
+
+ 1.打开.exe的可执行程序，一路默认安装。
+ 2.将lang放进C:\Program Files\Axure\Axure RP 8目录下；
+ 3.将library放进C:\Program Files\Axure\Axure RP 8\DefaultSettings
+ 4.第四步：注册：用户名：axureuser   序列号：8wFfIX7a8hHq6yAy6T8zCz5R0NBKeVxo9IKu+kgKh79FL6IyPD6lK7G6+tqEV4LG
